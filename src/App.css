@@ -1,0 +1,16 @@
+.search-form {
+  margin-top:10px;
+  display: flex;
+  justify-content: center;
+}
+
+.search-bar {
+  flex-basis: 50%;
+  border-radius: 5px;
+}
+
+.recipes {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
